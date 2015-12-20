@@ -3,7 +3,8 @@ layout: default
 img: ipad.png
 category: Services
 title: 吾窝：吾窝概述
-url:http://wow-decorate.github.io/
 description: |
 ---
    [吾窝](http://wow-decorate.github.io/) 介绍
+   
+<button type="reset"><a href="http://wow-decorate.github.io/">More ›></a></button>
