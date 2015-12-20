@@ -6,5 +6,5 @@ title: 吾窝：吾窝概述
 description: |
 ---
    [吾窝](http://wow-decorate.github.io/) 介绍
-   
-<button type="reset"><a href="http://wow-decorate.github.io/">More ›></a></button>
+    <br> <br>
+<button type="reset" style="color:blue; height:30px; width:100px"><a href="http://wow-decorate.github.io/">More >></a></button>
